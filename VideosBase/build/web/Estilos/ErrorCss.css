@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form-register{
+    width: 400px;
+    background:  red ;
+    padding: 30px;
+    margin:auto;
+    margin-top: 300px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.form-register a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.form-register .botons{
+    width: 100%;
+    background: #1f53c5;
+    border:none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;    
+}
+
+.fcc-btn {
+  background-color:  #5ed4cc ;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-family: 'calibri';
+}
+
+.fcc-btn:hover {
+  background-color:  #34afaa ;
+}
+
